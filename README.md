@@ -55,9 +55,9 @@ A console-based carpooling application built in C++ that enables users to publis
 ---
 
 ## 📸 Preview
-> _(You can add screenshots or GIFs of the terminal UI here)_
+![Screenshot 2025-04-16 182744](https://github.com/user-attachments/assets/c6841e5a-cf2b-4e96-8a7b-eab9cfd98fd4)
+![Screenshot 2025-04-16 182838](https://github.com/user-attachments/assets/e07f1cba-f4fd-4796-98ee-4009a9707586)
+![image](https://github.com/user-attachments/assets/71cc9fc6-eb54-4f94-9b03-4203a59257e3)
 
 ---
 
-## 📜 License
-MIT License (or your preferred license)
